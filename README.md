@@ -1,2 +1,2 @@
 # PCB-KiCAD
-Electric Speed Controller PCB. Regulates the speed of an electric motor.
+Expansion board for  MCP23017 IO expander

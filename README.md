@@ -1,2 +1,2 @@
 # PCB-KiCAD
-Expansion board for  MCP23017 IO expander
+Expansion board for  CD4052, dual 4-channel analog multiplexer/demultiplexer integrated circuit (IC),
